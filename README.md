@@ -44,7 +44,7 @@ Feature importance analysis showed `V14`, `V12`, and `V10` (PCA-derived features
 ## Running it yourself
 
 ```bash
-git clone https://github.com/<your-username>/credit-card-fraud-detection.git
+git clone https://github.com/Denlopen/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 pip install -r requirements.txt
 jupyter notebook notebooks/Credit_Card_Fraud.ipynb
